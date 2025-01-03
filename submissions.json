@@ -34,5 +34,14 @@
     "images": "https://i.imgur.com/Q2pGjlf.jpeg",
     "lat": 39.8309,
     "lng": -77.2311
+    },
+    {
+    "name": "Collin Smith",
+    "state": "California",
+    "city": "Sacramento",
+    "details": "Test",
+    "images": "",
+    "lat": Latitude,
+    "lng": Longitude
     }
 ]
