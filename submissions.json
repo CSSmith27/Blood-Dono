@@ -41,7 +41,7 @@
     "city": "Sacramento",
     "details": "Test",
     "images": "",
-    "lat": Latitude,
-    "lng": Longitude
+    "lat": 38.5781,
+    "lng": -121.4944
     }
 ]
