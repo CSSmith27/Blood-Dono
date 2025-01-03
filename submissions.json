@@ -1,0 +1,38 @@
+[
+    {
+        "name": "John Doe",
+        "state": "California",
+        "city": "San Francisco",
+        "details": "Donated 10 units of blood.",
+        "images": "https://i.imgur.com/oYTgGI1.png",
+        "lat": 37.7749,
+        "lng": -122.4194
+    },
+    {
+        "name": "Jane Smith",
+        "state": "New York",
+        "city": "New York City",
+        "details": "Donated 5 units of blood.",
+        "images": "https://i.imgur.com/oYTgGI1.png",
+        "lat": 40.7128,
+        "lng": -74.0060
+    },
+    {
+    "name": "Jeremy Maker",
+    "state": "Arkansas",
+    "city": "Kansas City",
+    "details": "Test dono",
+    "images": "https://i.imgur.com/1gJNgr5.png",
+    "lat": 39.0997,
+    "lng": -94.5786
+    },
+    {
+    "name": "Vinton Smith",
+    "state": "Pennsylvania",
+    "city": "Gettysburg",
+    "details": "Test donation",
+    "images": "https://i.imgur.com/Q2pGjlf.jpeg",
+    "lat": 39.8309,
+    "lng": -77.2311
+    }
+]
